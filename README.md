@@ -1,19 +1,19 @@
-# 📘 Student Record Management System (SRMS)
+#  Student Record Management System (SRMS)
 
 A simple **C++ console-based application** for managing student records
 efficiently.\
 This project demonstrates **file handling, authentication, and CRUD
 operations** using C++.
 
-## 🚀 Features
+##  Features
 
-### 👨‍🎓 Student Module
+###  Student Module
 
 -   View student profile\
 -   Submit complaints\
 -   Check academic details
 
-### 👨‍🏫 Admin Module
+###  Admin Module
 
 -   Add new student records\
 -   Delete student records\
@@ -21,12 +21,12 @@ operations** using C++.
 -   View and manage complaints\
 -   Manage login credentials
 
-### 👨‍👩‍👦 Parent Module
+###  Parent Module
 
 -   Parent login system\
 -   View student progress
 
-## 🗂️ Project Structure
+##  Project Structure
 
     srms/
     │── srms.cpp               # Main source code
@@ -44,7 +44,7 @@ operations** using C++.
 -   **Object-Oriented Programming**
 -   **Console-Based UI**
 
-## ▶️ How to Run
+##  How to Run
 
 ### Option 1: Run Executable (Windows)
 
@@ -58,7 +58,7 @@ g++ srms.cpp -o srms
 ./srms
 ```
 
-## 🔐 Login System
+##  Login System
 
 ### Admin Login
 
@@ -72,19 +72,19 @@ Stored in `student_login.txt`
 
 Stored in `parent_login.txt`
 
-## 📄 Data Storage
+##  Data Storage
 
 -   `students.txt` -- stores student info\
 -   `complaints.txt` -- stores student complaints
 
-## 📈 Future Enhancements
+##  Future Enhancements
 
 -   GUI using Qt/GTK or a web interface\
 -   Database integration\
 -   Email/OTP login\
 -   Attendance & grading system
 
-## 🤝 Contributing
+##  Contributing
 
 Pull requests are welcome!
 
